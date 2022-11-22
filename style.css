@@ -4,6 +4,10 @@ body {
   margin: 8px;
   font-family: Verdana, Geneva, sans-serif;
 }
+i {
+  height: 18px;
+  margin-bottom: -1.5px;
+}
 
 a:link {
   color: #000000;
